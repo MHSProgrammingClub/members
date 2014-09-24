@@ -1,7 +1,12 @@
 Username: Byteshift
+
 Name: Kim Mackey
+
 Grade: 10
-Website: sites.google.com/site/byteshiftcode --OR-- www.byteshiftcode.com
+
+Website:
+* sites.google.com/site/byteshiftcode --OR-- www.byteshiftcode.com
+
 Non-Computer-Skills:
 * Alpine Skiing
 * Water Skiing
