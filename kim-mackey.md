@@ -3,12 +3,12 @@ Name: Kim Mackey
 Grade: 10
 Website: sites.google.com/site/byteshiftcode --OR-- www.byteshiftcode.com
 Non-Computer-Skills:
-	Alpine Skiing
-	Water Skiing
-	Rubix Cube Solving
-	Bullwhip Making and Cracking
+* Alpine Skiing
+* Water Skiing
+* Rubix Cube Solving
+* Bullwhip Making and Cracking
 Computer-Skills:
-	High Level:
+* High Level:
 		Java
 		Git
 		Javascript
