@@ -9,8 +9,8 @@ Non-Computer-Skills:
 * Bullwhip Making and Cracking
 Computer-Skills:
 * High Level:
-		Java
-		Git
+	* Java
+	* Git
 		Javascript
 		Bash
 		Shell
