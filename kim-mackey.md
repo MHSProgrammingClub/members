@@ -34,5 +34,6 @@ Non-Computer-Skills:
 	* Low Level:
 		* Python
 		*C#
+
 What you want to get out of this club?
-	I want to do amazing things with interesting and fun people.
+* I want to do amazing things with interesting and fun people.
