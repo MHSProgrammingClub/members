@@ -1,0 +1,3 @@
+-Eliot Waddell
+-I want to be able to make a game to go along with the movie I'm making in media club.
+-No experience whatsoever in coding.
